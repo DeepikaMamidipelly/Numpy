@@ -1,2 +1,2 @@
 # Numpy
-Numpy library
+Numpy libraries
